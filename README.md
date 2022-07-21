@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bibin-zoz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning block-dev
+- 🌱 I’m currently learning Front end and apllication developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
