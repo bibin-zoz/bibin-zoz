@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bibin-zoz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Front end and apllication developing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Working on a GO-GIN-WEBAPP
+- 💞️ GO-GIN-POSTGRES-JWT-API
 - 📫 How to reach me ...
 
 <!---
