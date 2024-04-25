@@ -34,14 +34,13 @@ I am on a continuous journey of learning and improvement. Excited about diving d
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bibinvinod/)
 - GitHub: [Your GitHub Profile](https://github.com/bibin-zoz/)
 
-
 Feel free to reach out if you want to discuss technology, share ideas, or collaborate on exciting projects!
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibin-zoz&show_icons=true&hide_title=true&count_private=true&hide=contribs,prs)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=bibin-zoz)
 
 ## 📫 Contact
 
