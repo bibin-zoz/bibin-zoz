@@ -16,9 +16,9 @@ I am an experienced Go lang developer with a passion for building scalable and e
 
 ## 💻 Technologies & Tools
 
-- **Programming Languages**: Golang,Js
+- **Programming Languages**: Golang, Js
 - **Web Framework**: Gin
-- **Database**: Postgres,MongoDB
+- **Database**: Postgres, MongoDB
 - **Editor**: VSCode
 - **Clean Code Practices**: Implementing principles for maintainable code
 - **Containerization**: Docker
@@ -42,7 +42,7 @@ Feel free to reach out if you want to discuss technology, share ideas, or collab
 
 ## 📊 Repository Count by Language
 
-![Repository Count by Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bibin-zoz&langs_count=10&layout=compact)
+![Repository Count by Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bibin-zoz&layout=compact)
 
 ## 📫 Contact
 
