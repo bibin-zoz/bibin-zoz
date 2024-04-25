@@ -40,7 +40,7 @@ Feel free to reach out if you want to discuss technology, share ideas, or collab
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibin-zoz&show_icons=true&hide_title=true&count_private=true&hide=contribs,prs)
 
-![Profile Views](https://komarev.com/ghpvc/?username=bibin-zoz)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibin-zoz&layout=compact)
 
 ## 📫 Contact
 
