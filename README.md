@@ -21,9 +21,10 @@ I am an experienced Go lang developer with a passion for building scalable and e
 - **Database**: Postgres, MongoDB
 - **Editor**: VSCode
 - **Clean Code Practices**: Implementing principles for maintainable code
+-  **Microservice**: Implementing Grpc conenction between services,Deploying in k8s cluster
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
-- **Upcoming Focus**: Microservices
+- **Upcoming Focus**: WebSocket,WebRtc
 
 ## 🌱 Learning & Improving
 
